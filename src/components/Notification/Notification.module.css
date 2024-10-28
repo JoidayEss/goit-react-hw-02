@@ -1,0 +1,13 @@
+.not_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.no_feedback {
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 500px;
+    color: #0f0f0f;
+    margin: 0;
+}

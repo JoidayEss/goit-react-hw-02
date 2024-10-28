@@ -1,0 +1,13 @@
+.list_feedback {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    margin: 0;
+}
+
+.items_feedback {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
